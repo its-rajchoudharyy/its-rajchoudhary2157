@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/choudharyraj219" target="blank"><img src="https://img.shields.io/twitter/follow/choudharyraj219?logo=twitter&style=for-the-badge" alt="choudharyraj219" /></a> </p>
 
-- 🔭 I’m currently working on *Attendence using face recognition.*
+- 🔭 I’m currently working on *IBM Tririga*
 
-- 🌱 I’m currently learning *Flutter, Android studio.*
+- 🌱 I’m currently learning *Flutter, Android studio, IBM Tririga Developer.*
 
 - 📫 How to reach me *choudharyraj219@gmail.com*
 
