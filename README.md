@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/choudharyraj219" target="blank"><img src="https://img.shields.io/twitter/follow/choudharyraj219?logo=twitter&style=for-the-badge" alt="choudharyraj219" /></a> </p>
 
-- 🔭 I’m currently working on *IBM Tririga*
+- 🔭 I’m currently working as Data Analyst in JLL*
 
-- 🌱 I’m currently learning *Flutter, Android studio, IBM Tririga Developer.*
+- 🌱 I’m currently learning *Flutter, Android studio, IBM Tririga Developer, Salesforce Developer, PowerBI, Python Pandas.*
 
 - 📫 How to reach me *choudharyraj219@gmail.com*
 
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/choudharyraj219" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="choudharyraj219" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajprasad-choudhary-4b4354201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rajprasad-choudhary-4b4354201" height="30" width="40" /></a>
 <a href="https://fb.com/raj choudhary rc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raj choudhary rc" height="30" width="40" /></a>
-<a href="https://instagram.com/its_rajchoudhary2157" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="its_rajchoudhary2157" height="30" width="40" /></a>
+<a href="https://instagram.com/its_rajchoudharyy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="its_rajchoudhary2157" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
